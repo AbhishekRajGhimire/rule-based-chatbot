@@ -24,7 +24,7 @@ This project demonstrates **prompt engineering** and the use of **Amazon Q Devel
 - **Java (Spring Boot)**
 - **Thymeleaf** for UI templates
 - **JavaScript + AJAX** for dynamic chat updates
-- **Amazon Q Developer** for code generation & productivity
+- **Amazon Q Developer** for efficiency, help with code completion and & productivity
 - **JSON file storage** for country facts
 
 ---
