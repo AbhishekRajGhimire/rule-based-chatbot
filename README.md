@@ -45,7 +45,7 @@ This project demonstrates **prompt engineering** and the use of **Amazon Q Devel
 1. Clone the repository:
    ```bash
    git clone https://github.com/AbhishekRajGhimire/rule-based-chatbot.git
-   cd rule-based-chatbot
+   cd rule-based-chatbot/chatbot
 2. Build and run with Maven/Gradle:
    ./mvnw spring-boot:run          or,
    ./gradlew bootRun
