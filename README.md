@@ -72,7 +72,7 @@ When asked further
 
 when given the wrong instruction
 
-<img width="2502" height="1354" alt="Screenshot 2026-01-16 042304" src="https://github.com/user-attachments/assets/af3ef546-a4db-49cd-9803-9b35520aa82a" />
+<img width="2510" height="1329" alt="Screenshot 2026-01-16 042419" src="https://github.com/user-attachments/assets/59315e3c-96d2-44aa-a9ab-5d27ef40ac47" />
 
 Clearing the chat
 
