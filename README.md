@@ -51,3 +51,30 @@ This project demonstrates **prompt engineering** and the use of **Amazon Q Devel
    ./gradlew bootRun
 3. Open your browser and go to:
    http://localhost:8080
+
+
+
+
+
+
+
+the interface(the start)
+
+<img width="2491" height="1357" alt="Screenshot 2026-01-16 041533" src="https://github.com/user-attachments/assets/ea16dc1d-25d5-4ac1-baef-748dc1328b1e" />
+
+the first interaction
+
+<img width="2483" height="1353" alt="Screenshot 2026-01-16 042127" src="https://github.com/user-attachments/assets/9352f550-7892-4fa6-a218-d4f47acafd65" />
+
+When asked further
+
+<img width="2502" height="1354" alt="Screenshot 2026-01-16 042304" src="https://github.com/user-attachments/assets/77cf8c2d-a736-4139-ad3f-e332b0408fc6" />
+
+when given the wrong instruction
+
+<img width="2502" height="1354" alt="Screenshot 2026-01-16 042304" src="https://github.com/user-attachments/assets/af3ef546-a4db-49cd-9803-9b35520aa82a" />
+
+Clearing the chat
+
+<img width="2501" height="1335" alt="Screenshot 2026-01-16 042610" src="https://github.com/user-attachments/assets/fa95a1bc-15ff-4906-9a21-3ba5b78210a4" />
+
