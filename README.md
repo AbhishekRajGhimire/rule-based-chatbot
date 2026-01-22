@@ -1,4 +1,4 @@
-# Rule-Based Chatbot 🌍
+# Rule-Based Chatbot 
 
 A Spring Boot application that implements a simple **rule-based chatbot**.  
 The chatbot answers questions about countries’ **capitals, national animals, and national flowers**, while remembering the selected country during a conversation (session management).  
@@ -7,7 +7,7 @@ This project demonstrates **prompt engineering** and the use of **Amazon Q Devel
 
 ---
 
-## 🚀 Features
+##  Features
 - Rule-based chatbot logic with predictable responses.
 - Provides information about:
   - Capital city
@@ -20,7 +20,7 @@ This project demonstrates **prompt engineering** and the use of **Amazon Q Devel
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **Java (Spring Boot)**
 - **Thymeleaf** for UI templates
 - **JavaScript + AJAX** for dynamic chat updates
@@ -29,7 +29,7 @@ This project demonstrates **prompt engineering** and the use of **Amazon Q Devel
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 - `CountryInfo.java` – Data model for country facts  
 - `CountryDataLoader.java` – Loads data from JSON into a HashMap  
 - `ChatbotService.java` – Service layer between logic and data  
